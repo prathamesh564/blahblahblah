@@ -1,6 +1,5 @@
 # My Project 🚀
 
-
 <h1>
 A sleek and modern web application built with HTML, **CSS**, and JavaScript.
 Custom utility classes are included to ensure responsive design and beautiful UI layouts.
